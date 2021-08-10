@@ -1,2 +1,2 @@
 # resource
-Database for website
+resource for website
